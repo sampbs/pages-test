@@ -7,6 +7,11 @@ layout: home
 
 Wow.
 
-Look here:
-- [Topic 1](/topics/topic1.md)
-- [Topic 2](/topics/topic2.md)
+```
+I can write markdown!
+```
+
+And also link other pages:
+- [Topic 1]({{ site.baseurl }}{% link docs/topic1.md %})
+- [Topic 2]({{ site.baseurl }}{% link docs/topic2.md %})
+- Find topic 3 on the sidebar
