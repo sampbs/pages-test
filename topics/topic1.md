@@ -1,5 +1,5 @@
 ---
-title: Topic1
+title: Topic 1
 layout: default
 ---
 
