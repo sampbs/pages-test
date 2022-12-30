@@ -1,3 +1,8 @@
+---
+title: Home
+layout: home
+---
+
 # Main page
 
 Wow.
