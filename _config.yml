@@ -1,3 +1,8 @@
 title: SAMP's docs page
 description: A way to navigate our projects documentation using GitHub pages.
 theme: just-the-docs
+
+# Aux links for the upper right navigation
+aux_links:
+  "These docs on GitHub":
+    - "//github.com/sampbs/pages-test"
