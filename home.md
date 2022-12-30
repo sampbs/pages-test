@@ -1,3 +1,0 @@
-# Home for docs
-
-Wow.
